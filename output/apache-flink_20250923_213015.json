@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-23T21:30:15.633691",
+    "total_questions": 2,
+    "tool_version": "0.1.0"
+  },
+  "statistics": {
+    "total_questions": 2,
+    "answered_questions": 1,
+    "accepted_answers": 1,
+    "answer_rate": 0.5,
+    "acceptance_rate": 0.5,
+    "score_statistics": {
+      "average": 0.5,
+      "maximum": 1,
+      "minimum": 0
+    },
+    "view_statistics": {
+      "total": 206,
+      "average": 103.0
+    },
+    "top_tags": [
+      [
+        "apache-flink",
+        2
+      ],
+      [
+        "flink-streaming",
+        2
+      ],
+      [
+        "flink-sql",
+        2
+      ],
+      [
+        "flink-cep",
+        2
+      ],
+      [
+        "flink-table-api",
+        1
+      ],
+      [
+        "flink-batch",
+        1
+      ]
+    ],
+    "date_range": {
+      "earliest": "2025-01-15T07:56:11",
+      "latest": "2025-05-07T07:29:52",
+      "span_days": 111
+    }
+  },
+  "questions": [
+    {
+      "question_id": 79610784,
+      "title": "Issue while adding Tumble Window/Watermark with TIMESTAMP AS event_time to view",
+      "link": "https://stackoverflow.com/questions/79610784/issue-while-adding-tumble-window-watermark-with-timestamp-as-event-time-to-view",
+      "tags": [
+        "apache-flink",
+        "flink-streaming",
+        "flink-sql",
+        "flink-cep",
+        "flink-table-api"
+      ],
+      "score": 1,
+      "view_count": 101,
+      "answer_count": 1,
+      "is_answered": true,
+      "creation_date": "2025-05-07T07:29:52",
+      "last_activity_date": "2025-08-09T08:35:50",
+      "accepted_answer_id": 79611543
+    },
+    {
+      "question_id": 79358905,
+      "title": "Ephemeral storage bloat when submitting multiple jobs to flink session cluster",
+      "link": "https://stackoverflow.com/questions/79358905/ephemeral-storage-bloat-when-submitting-multiple-jobs-to-flink-session-cluster",
+      "tags": [
+        "apache-flink",
+        "flink-streaming",
+        "flink-sql",
+        "flink-cep",
+        "flink-batch"
+      ],
+      "score": 0,
+      "view_count": 105,
+      "answer_count": 1,
+      "is_answered": false,
+      "creation_date": "2025-01-15T07:56:11",
+      "last_activity_date": "2025-02-01T02:33:15",
+      "accepted_answer_id": null
+    }
+  ]
+}
