@@ -1,0 +1,5 @@
+**/output/
+**/knowledge/
+**/tmp/
+**/__pycache__/
+**/.venv
